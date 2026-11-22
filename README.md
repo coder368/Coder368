@@ -1,3 +1,10 @@
+<!-- Contribution snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coder368/Coder368/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coder368/Coder368/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Coder368/Coder368/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Saad) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5Eg5DjCg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@saad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadmimsayad@gmail.com) 
